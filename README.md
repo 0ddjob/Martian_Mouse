@@ -3,7 +3,7 @@ Information about the Soviet computer mouse Марсианка Мышь (Martian
 
 Устройство предназначено для расширения потребительских свойств микро-ЭВМ “Электроника БКОО11".
 
-The device is designed to expand the consumer properties of the microcomputer "Electronics BKOO11".
+The device is designed to expand the consumer properties of the microcomputer "Elektronika BKOO11".
 
 Устройство является средством ввода графической информации в ЭВМ.
 
