@@ -10,13 +10,23 @@ The device is designed to expand the consumer properties of the microcomputer "E
 The device is a means of entering graphic information into a computer.
 
 Pinout:
+
 Pin  1 = Y (up, вверх)
+
 Pin  2 = X (right, вправо)
+
 Pin  3 = -Y (down, вниз) 
+
 Pin  4 = -X (left, влево)
+
 Pin  5 = button 1 (КН1)
+
 Pin  6 = button 2 (КН2)
+
 Pin  7 = common (общий)
+
 Pin  8 = common (общий)
+
 Pin  9 = reset (сброс)
+
 Pin 10 = +5V
