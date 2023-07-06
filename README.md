@@ -1,5 +1,5 @@
 # Martian_Mouse
-Information about the Soviet computer mouse.  The mouse was available in the early 1990s for 150 Soviet Rubles (about US$91 at official rates, or US$7.50 at black market rates).
+Information about the Soviet computer mouse Марсианка Мышь (Martian Mouse).  The mouse was available in the early 1990s for 150 Soviet Rubles (about US$91 at official rates, or US$7.50 at black market rates).
 
 Устройство предназначено для расширения потребительских свойств микро-ЭВМ “Электроника БКОО11".
 
