@@ -2,9 +2,11 @@
 Information about the Soviet computer mouse.  The mouse was available in the early 1990s for 150 Soviet Rubles (about US$91 at official rates, or US$7.50 at black market rates).
 
 Устройство предназначено для расширения потребительских свойств микро-ЭВМ “Электроника БКОО11".
+
 The device is designed to expand the consumer properties of the microcomputer "Electronics BKOO11".
 
 Устройство является средством ввода графической информации в ЭВМ.
+
 The device is a means of entering graphic information into a computer.
 
 Pinout:
